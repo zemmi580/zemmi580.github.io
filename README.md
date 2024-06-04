@@ -17,7 +17,7 @@ Bachelor's Degree in Physical Engineering
 ## Work Experience
 
 ### Social Service Project [Manufacturing and Characterization of Implants as Potential Human Bones] [UAM] (2020 - 2021):
--	Utilized Excel to clean and analyze the collected data, subsequently creating diagrams that facilitated the understanding of trends.
+-	Used Excel to clean and analyze the collected data, subsequently creating diagrams that facilitated the understanding of trends.
 -	Collaborated closely with colleagues from various disciplines to integrate and analyze data from multiple sources.
   
 ## Projects
