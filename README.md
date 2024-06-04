@@ -22,7 +22,7 @@ Bachelor's Degree in Physical Engineering
   
 ## Projects
 
-# Forest Fire Analysis Project in Mexico
+### Forest Fire Analysis Project in Mexico
 - **Objective**: To identify a realatioship between temperatures or population .
 - **Tools**: I used Tableau to create maps showing the total of forest fires in the territory, Python to clean ,analyze the data and to make vizualization, also Excel to clean data.
 - **Findings**: I discovered that the recent rising of the temperatures is not directly related with the number of forest fires, but the population of the states could be strongly related.
