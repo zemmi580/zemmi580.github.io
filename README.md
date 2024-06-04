@@ -27,7 +27,7 @@ Bachelor's Degree in Physical Engineering
 - **Tools**: I used Tableau to create maps showing the total of forest fires in the territory, Python to clean ,analyze the data and to make vizualization, also Excel to clean data.
 - **Findings**: I discovered that the recent rising of the temperatures is not directly related with the number of forest fires, but the population of the states could be strongly related.
 - **Skills**: Data analysis, data visualization, Data cleansing and identify and extract Data.
-- **Personal Impact**: Advanced analytical skills development and practical experience in environmental data management..
+- **Personal Impact**: Advanced analytical skills development and practical experience in environmental data management
 - **Learn More**: [[Data Analysis Projects Portfolio]](https://github.com/zemmi580/EmilianoChavez_DataProjects/blob/956a1d92362970bc1f3b7d17502ee40c77ebae56/Forestal%20fires.md)
 
 ## KNOWLEDGE
