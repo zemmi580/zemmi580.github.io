@@ -16,9 +16,19 @@ Bachelor's Degree in Physical Engineering
 
 ## Work Experience
 
-###Social Service Project [Manufacturing and Characterization of Implants as Potential Human Bones] [UAM] (2020 - 2021):
+### Social Service Project [Manufacturing and Characterization of Implants as Potential Human Bones] [UAM] (2020 - 2021):
 -	Utilized Excel to clean and analyze the collected data, subsequently creating diagrams that facilitated the understanding of trends.
 -	Collaborated closely with colleagues from various disciplines to integrate and analyze data from multiple sources.
+  
+## Projects
+
+# Forest Fire Analysis Project in Mexico
+- **Objective**: To identify a realatioship between temperatures or population .
+- **Tools**: I used Tableau to create maps showing the total of forest fires in the territory, Python to clean ,analyze the data and to make vizualization, also Excel to clean data.
+- **Findings**: I discovered that the recent rising of the temperatures is not directly related with the number of forest fires, but the population of the states could be strongly related.
+- **Skills**: Data analysis, data visualization, Data cleansing and identify and extract Data.
+- **Personal Impact**: Advanced analytical skills development and practical experience in environmental data management..
+- **Learn More**: [[Data Analysis Projects Portfolio]](https://github.com/zemmi580/EmilianoChavez_DataProjects/blob/956a1d92362970bc1f3b7d17502ee40c77ebae56/Forestal%20fires.md)
 
 ## KNOWLEDGE
 - Knowledge Excel
@@ -28,6 +38,6 @@ Bachelor's Degree in Physical Engineering
 - Knowledge in Tableau
 - Knowledge in PowerBI
 
-- 
-Language Skills:
-Advanced English
+## Language Skills:
+- Advanced English
+- Mother tongue Spanish
