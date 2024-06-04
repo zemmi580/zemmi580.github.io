@@ -18,7 +18,7 @@ Bachelor's Degree in Physical Engineering
 
 ## KNOWLEDGE
 - Knowledge Excel
-- Knowledge Python (Programing, Pandas, Scikit)
+- Knowledge Python (Matplotlib, Pandas, Scikit)
 - Knowledge SQL
 - Knowledge in R
 - Knowledge in Tableau
